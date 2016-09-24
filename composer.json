@@ -1,0 +1,13 @@
+{
+
+    "autoload": {
+        "psr-4": {
+            "Ecos\\Model\\": "src/models/"
+        }
+    },
+
+    "require": {
+        "silex/silex": "~2.0",
+        "jguyomard/silex-capsule-eloquent": "~2.0"
+    }
+}
