@@ -2,15 +2,257 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="224b7cbb-6ece-4fc3-aa31-d7a6190cd8c3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/Profile.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/base.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/login.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/template.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/controllers/user.php" afterPath="$PROJECT_DIR$/src/controllers/user.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.php" afterPath="$PROJECT_DIR$/www/index.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/ARCHITECTURE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/DOCUMENTATION.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/chromedriver/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/chromedriver/chromedriver_linux.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/chromedriver/chromedriver_mac.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/chromedriver/chromedriver_shadow_dom.patch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/chromedriver/selenium_shadow_dom.patch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/config/karma.sauce.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/config/karma.travis.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/content/configuration.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/content/getting-started.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/content/lifecycle.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/dgeni.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/file-readers/markdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/highlight.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/processors/addMethodsToService.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/processors/generateIndexPage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/processors/markdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/rendering/docTypeLabel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/rendering/relativeLinkInlineTag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/templates/index.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/templates/js.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/templates/layout/base.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/templates/markdown.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/traceur-package/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/traceur-package/processors/generateDocsFromComments.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/traceur-package/processors/processClassDocs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/traceur-package/processors/processModuleDocs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/traceur-package/readers/atScript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/traceur-package/readers/atScript.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/traceur-package/services/AttachCommentTreeVisitor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/traceur-package/services/ExportTreeVisitor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/traceur-package/services/atParser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/traceur-package/services/atParser.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/traceur-package/services/getJSDocComment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/traceur-package/services/getJSDocComment.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/traceur-package/services/traceur.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/traceur-package/templates/class.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/traceur-package/templates/common.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/traceur-package/templates/data-module.template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/traceur-package/templates/layout/base.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/docs/traceur-package/templates/module.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/animation/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/animation/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/animation/components/goodbye/goodbye.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/animation/components/goodbye/goodbye.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/animation/components/welcome/welcome.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/animation/components/welcome/welcome.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/animation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/animation/scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/confirm-unsaved/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/confirm-unsaved/components/edit-post/edit-post.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/confirm-unsaved/components/edit-post/edit-post.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/confirm-unsaved/components/index/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/confirm-unsaved/components/index/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/confirm-unsaved/components/save-modal/save-modal.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/confirm-unsaved/components/save-modal/save-modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/confirm-unsaved/components/save-modal/save-modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/confirm-unsaved/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/confirm-unsaved/scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/hello/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/hello/components/flickr/flickr.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/hello/components/flickr/flickr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/hello/components/settings/settings.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/hello/components/settings/settings.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/hello/components/welcome/welcome.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/hello/components/welcome/welcome.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/hello/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/hello/scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/components/phone-detail/phone-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/components/phone-detail/phone-detail.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/components/phone-list/phone-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/components/phone-list/phone-list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/css/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/css/animations.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/css/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/dell-streak-7.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/dell-streak-7.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/dell-streak-7.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/dell-streak-7.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/dell-streak-7.4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/dell-venue.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/dell-venue.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/dell-venue.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/dell-venue.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/dell-venue.4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/dell-venue.5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/droid-2-global-by-motorola.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/droid-2-global-by-motorola.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/droid-2-global-by-motorola.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/droid-pro-by-motorola.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/droid-pro-by-motorola.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/lg-axis.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/lg-axis.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/lg-axis.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-atrix-4g.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-atrix-4g.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-atrix-4g.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-atrix-4g.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-bravo-with-motoblur.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-bravo-with-motoblur.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-bravo-with-motoblur.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-charm-with-motoblur.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-charm-with-motoblur.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-charm-with-motoblur.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-defy-with-motoblur.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-defy-with-motoblur.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-defy-with-motoblur.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-xoom-with-wi-fi.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-xoom-with-wi-fi.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-xoom-with-wi-fi.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-xoom-with-wi-fi.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-xoom-with-wi-fi.4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-xoom-with-wi-fi.5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-xoom.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-xoom.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/motorola-xoom.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/nexus-s.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/nexus-s.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/nexus-s.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/nexus-s.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-galaxy-tab.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-galaxy-tab.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-galaxy-tab.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-galaxy-tab.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-galaxy-tab.4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-galaxy-tab.5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-galaxy-tab.6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-gem.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-gem.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-gem.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-mesmerize-a-galaxy-s-phone.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-mesmerize-a-galaxy-s-phone.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-mesmerize-a-galaxy-s-phone.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-mesmerize-a-galaxy-s-phone.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-showcase-a-galaxy-s-phone.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-showcase-a-galaxy-s-phone.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-showcase-a-galaxy-s-phone.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-transform.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-transform.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-transform.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-transform.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/samsung-transform.4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/sanyo-zio.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/sanyo-zio.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/sanyo-zio.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/t-mobile-g2.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/t-mobile-g2.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/t-mobile-g2.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/t-mobile-mytouch-4g.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/t-mobile-mytouch-4g.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/t-mobile-mytouch-4g.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/t-mobile-mytouch-4g.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/t-mobile-mytouch-4g.4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/img/phones/t-mobile-mytouch-4g.5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/js/animations.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/js/filters.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/js/services.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/dell-streak-7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/dell-venue.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/droid-2-global-by-motorola.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/droid-pro-by-motorola.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/lg-axis.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/motorola-atrix-4g.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/motorola-bravo-with-motoblur.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/motorola-charm-with-motoblur.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/motorola-defy-with-motoblur.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/motorola-xoom-with-wi-fi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/motorola-xoom.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/nexus-s.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/phones.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/samsung-galaxy-tab.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/samsung-gem.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/samsung-mesmerize-a-galaxy-s-phone.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/samsung-showcase-a-galaxy-s-phone.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/samsung-transform.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/sanyo-zio.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/t-mobile-g2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/phones/t-mobile-mytouch-4g.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/phone-kitten/scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/sibbling-routes/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/sibbling-routes/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/sibbling-routes/components/posts/posts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/sibbling-routes/components/users/users.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/sibbling-routes/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/wizard/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/wizard/components/end/end.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/wizard/components/end/end.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/wizard/components/intro/intro.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/wizard/components/intro/intro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/wizard/components/one/one.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/wizard/components/one/one.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/wizard/components/three/three.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/wizard/components/three/three.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/wizard/components/two/two.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/wizard/components/two/two.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/examples/angular-1/wizard/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/karma.es5.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/protractor.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/protractor.travis.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/scripts/angular-modulate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/scripts/deploy_docs_to_gh_pages.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/scripts/lib/traceur-runtime-custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/scripts/run_protractor_tests.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/scripts/sauce_connect_setup.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/scripts/test_on_sauce.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/scripts/wait_for_browser_provider.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/src/grammar.ats" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/src/pipeline.ats" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/src/router-directive.es5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/src/router.ats" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/test/component-loader.es5.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/test/controller-introspector.es5.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/test/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/test/pipeline.es5.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/test/router-viewport.es5.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/test/router.spec.ats" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular-new-router/test/util.es5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular/angular-csp.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular/angular.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular/angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular/angular.min.js.gzip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular/angular.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/angular/package.json" afterPath="" />
     </list>
     <ignored path="silex_eloquent.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -357,18 +599,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1474754509674</updated>
-      <workItem from="1474754513140" duration="13023000" />
+      <workItem from="1474754513140" duration="13073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13023000" />
+    <option name="totallyTimeSpent" value="13073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="36" width="1374" height="736" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
