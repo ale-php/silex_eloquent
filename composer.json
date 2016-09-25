@@ -8,6 +8,9 @@
 
     "require": {
         "silex/silex": "~2.0",
-        "jguyomard/silex-capsule-eloquent": "~2.0"
+        "jguyomard/silex-capsule-eloquent": "~2.0",
+        "twig/twig": "^1.25",
+        "symfony/twig-bridge": "^3.1",
+        "symfony/asset": "^3.1"
     }
 }

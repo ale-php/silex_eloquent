@@ -7,10 +7,18 @@ Essa base contem o silex, framewor usando o eloquente do laravel
 tendo assim ma interação rapida com o banco de dados, e uma
 maneira agil de criar apis
 
+## Recursos
+
+* Eloquent (Recordset laravel)
+* Twig
+* Silex
+
 ## instalação
 
 ~~~
 git clone https://github.com/ale-php/silex_eloquent.git
 cd silex_eloquent
 composer install
+
+
 ~~~
